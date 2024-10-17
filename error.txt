@@ -1,0 +1,6 @@
+Error: invalid stoi argument        - ﻿Type,Name,Manufacturer,Year,Cost,Strings,Frets,Bowed
+Error: invalid stoi argument        - Drums,Nitro Max 2,Alesis,error,399,,,
+Error: invalid stoi argument        - Base Guitar,39LH,Glarry,2024,99,4,22,error
+Error: invalid stoi argument        - Electric Guitar,Squire,Fender,2023,error,5,22,0
+Error: No instruments found.
+Error: No instruments found.
